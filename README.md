@@ -21,6 +21,7 @@ Open `/src/routes/_layout.svelte` and set the `serverUrl` and the `appId`
 ```
 const serverUrl = "MORALIS_SERVER_URI";
 const appId = "YOUR_MORALIS_APPID";
+
 ```
 4. Run: `npm run dev`
 
